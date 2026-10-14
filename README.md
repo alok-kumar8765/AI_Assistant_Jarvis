@@ -255,7 +255,7 @@ Ensure `JAVA_HOME` is set in your Windows System Environment Variables pointing 
 Open Terminal / Command Prompt and run:
 
 ```bash
-git clone https://github.com/ishantSingh3142/AI-ASSISTANT-.git
+git clone https://github.com/alok-kumar8765/AI_Assistant_Jarvis.git
 ```
 
 Move into the project folder:
@@ -501,8 +501,8 @@ The long-term goal is to evolve this project from a basic voice assistant into a
 
 ## 📬 Connect With Me
 
-- **GitHub**: [@ishantSingh3142](https://github.com/ishantSingh3142)
-- **Repository**: [ishantSingh3142/AI-ASSISTANT-](https://github.com/ishantSingh3142/AI-ASSISTANT-)
+- **GitHub**: [@alok-kumar8765](https://github.com/alok-kumar8765)
+- **Repository**: [alok-kumar8765/AI-Assistant-Jarvis](https://github.com/alok-kumar8765/AI_Assistant_Jarvis)
 
 ---
 
